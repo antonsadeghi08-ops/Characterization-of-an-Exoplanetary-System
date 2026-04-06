@@ -1,7 +1,7 @@
 # Characterization-of-an-Exoplanetary-System
 # Characterization of an Exoplanetary System
 
-> ⚠️ **Hobby / Final Project**  
+> **Hobby / Final Project**  
 > A personal, educational project created as part of **Rymdforskarskolan 2025**.  
 > This is **not intended for professional research**.
 
@@ -32,7 +32,7 @@ Packages:
 > - uncertainties – automatic error propagation
 > - matplotlib – optional, used if plotting is added
 
-> ## Run the script:
+ ## Run the script:
 
 python Felmarginaler.py
 
@@ -57,11 +57,11 @@ The script prints calculations to the console, including propagated uncertaintie
 > - Effektiv planettemperatur: 290 K
 > - Disclaimer
 
-> ## Note
+ ## Note
 Educational purposes only – final project for Rymdforskarskolan 2025
 Simplified assumptions (circular orbits, 2-body system)
 Not suitable for scientific publication or exoplanet research
 
-> ## Author
+ ## Author
 
 Final project at Rymdforskarskolan 2025 – a hobby exploration of exoplanetary system modeling in Python.
