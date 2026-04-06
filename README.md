@@ -1,5 +1,4 @@
 # Characterization-of-an-Exoplanetary-System
-# Characterization of an Exoplanetary System
 
 > **Hobby / Final Project**  
 > A personal, educational project created as part of **Rymdforskarskolan 2025**.  
